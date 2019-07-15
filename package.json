@@ -28,7 +28,7 @@
     "framework"
   ],
   "devDependencies": {
-    "@commitlint/cli": "^8.0.0",
+    "@commitlint/cli": "^8.1.0",
     "@commitlint/config-conventional": "^8.0.0",
     "@jedmao/semantic-release-npm-github-config": "^1.0.4",
     "@types/fs-extra": "^8.0.0",
